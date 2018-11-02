@@ -1,6 +1,7 @@
 # Kubernetes Internals
 A collection of resources that discuss the inner workings of [Kubernetes](https://kubernetes.io/).
-Please not that this material _may not_ be relevant if you're looking to operate Kubernetes. This is aimed at folks curious about how Kubernetes works and does things internally.
+
+Please note that this material _may not_ be relevant if you're looking to operate Kubernetes. This is aimed at folks curious about how Kubernetes works and does things internally.
 
 ## Blog Posts
 
@@ -32,9 +33,12 @@ Please be aware that the design proposals maybe not mirror the implementation ex
 ### Networking
 - [GKE Networking Overview](https://cloud.google.com/kubernetes-engine/docs/concepts/network-overview)
 (Useful resource for understanding networking in general)
+- [Networking model](https://git.k8s.io/community/contributors/design-proposals/network/networking.md)
 - [Design Proposals](https://github.com/kubernetes/community/tree/master/contributors/design-proposals/network)
+
 
 ### Scheduler
 - [Sheduling algorithms](https://github.com/kubernetes/community/blob/master/contributors/devel/scheduler_algorithm.md)
 - [Scheduler overview](https://github.com/kubernetes/community/blob/master/contributors/devel/scheduler.md)
 - [Design Proposals](https://github.com/kubernetes/community/tree/master/contributors/design-proposals/scheduling)
+- [SIG Deep Dive](https://www.youtube.com/watch?v=_fja_lLFpfc)
