@@ -14,4 +14,9 @@ A collection of resources that discuss the inner workings of [Kubernetes](https:
 - [Scheduling in Kubernetes](http://alexandrutopliceanu.ro/post/scheduling-in-kubernetes/)
 - [Implementing Advanced Scheduling Techniques with Kubernetes](https://thenewstack.io/implementing-advanced-scheduling-techniques-with-kubernetes/)
 
+### API Server
+- [Kubernetes deep dive: API Server – part 1](https://blog.openshift.com/kubernetes-deep-dive-api-server-part-1/)
+- [Kubernetes deep dive: API Server – part 2](https://blog.openshift.com/kubernetes-deep-dive-api-server-part-2/)
+- [Kubernetes deep dive: API Server – part 3a](https://blog.openshift.com/kubernetes-deep-dive-api-server-part-3a/)
+
 ## Talks
