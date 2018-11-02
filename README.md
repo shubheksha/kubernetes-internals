@@ -5,6 +5,9 @@ Please note that this material _may not_ be relevant if you're looking to operat
 
 ## Blog Posts
 
+### Architecture
+- [What happens when k8s](https://github.com/jamiehannaford/what-happens-when-k8s)
+
 ### Networking
 - [Kubernetes 101 - Networking](http://www.dasblinkenlichten.com/kubernetes-101-networking/)
 - [Understanding kubernetes networking: pods](https://medium.com/google-cloud/understanding-kubernetes-networking-pods-7117dd28727)
@@ -28,17 +31,31 @@ Please note that this material _may not_ be relevant if you're looking to operat
 - [Deep-dive on Kubernetes networking](https://skillsmatter.com/skillscasts/10466-deep-dive-on-kubernetes-networking)
 - [Life of a Packet](https://www.youtube.com/watch?v=0Omvgd7Hg1I)
 
+### API server
+- [Life of a Kubernetes API request](https://www.youtube.com/watch?v=ryeINNfVOi8)
+
+### Storage
+- [How Kubernetes storage works](https://docs.google.com/presentation/d/1Yl5JKifcncn0gSZf3e1dWspd8iFaWObLm9LxCaXZJIk/edit?usp=sharing)(slides only)
+
+### Scheduler
+- [SIG Deep Dive](https://www.youtube.com/watch?v=_fja_lLFpfc)
+
 ## Docs/Design Proposals
-Please be aware that the design proposals maybe not mirror the implementation exactly but convey the basic idea of the design.
+Please be aware that the design proposals may not mirror the implementation exactly but convey the basic idea of the design.
+
+### Architecture
+- [Architecture overview](https://github.com/kubernetes/community/blob/master/contributors/design-proposals/architecture/architecture.md)
+
 ### Networking
 - [GKE Networking Overview](https://cloud.google.com/kubernetes-engine/docs/concepts/network-overview)
 (Useful resource for understanding networking in general)
 - [Networking model](https://git.k8s.io/community/contributors/design-proposals/network/networking.md)
 - [Design Proposals](https://github.com/kubernetes/community/tree/master/contributors/design-proposals/network)
 
-
 ### Scheduler
 - [Sheduling algorithms](https://github.com/kubernetes/community/blob/master/contributors/devel/scheduler_algorithm.md)
 - [Scheduler overview](https://github.com/kubernetes/community/blob/master/contributors/devel/scheduler.md)
 - [Design Proposals](https://github.com/kubernetes/community/tree/master/contributors/design-proposals/scheduling)
-- [SIG Deep Dive](https://www.youtube.com/watch?v=_fja_lLFpfc)
+
+### Storage
+- [Design Proposals](https://github.com/kubernetes/community/tree/master/contributors/design-proposals/storage)
