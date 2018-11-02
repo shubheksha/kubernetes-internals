@@ -1,2 +1,6 @@
-# kubernetes-internals
-This is a collection of resources that shed light on the inner workings of Kubernetes
+# Kubernetes Internals
+A collection of resources that discuss the inner workings of [Kubernetes](https://kubernetes.io/).
+
+## Blog Posts
+
+## Talks
