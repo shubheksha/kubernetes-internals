@@ -40,6 +40,10 @@ Please note that this material _may not_ be relevant if you're looking to operat
 ### Scheduler
 - [SIG Deep Dive](https://www.youtube.com/watch?v=_fja_lLFpfc)
 
+### Resource Management
+- [Everything You Ever Wanted to Know About Resource Scheduling, But Were Afraid to Ask by Tim Hockin](https://www.youtube.com/watch?v=nWGkvrIPqJ4)
+- [Inside Kubernetes Resource Management (QoS) – Mechanics and Lessons from the Field - Michael Gasch](https://www.youtube.com/watch?v=8-apJyr2gi0) ([Slides](https://schd.ws/hosted_files/kccnceu18/33/Inside%20Kubernetes%20QoS%20M.%20Gasch%20KubeCon%20EU%20FINAL.pdf))
+
 ## Docs/Design Proposals
 Please be aware that the design proposals may not mirror the implementation exactly but convey the basic idea of the design.
 
