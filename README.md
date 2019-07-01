@@ -57,8 +57,8 @@ Please be aware that the design proposals may not mirror the implementation exac
 - [Design Proposals](https://github.com/kubernetes/community/tree/master/contributors/design-proposals/network)
 
 ### Scheduler
-- [Sheduling algorithms](https://github.com/kubernetes/community/blob/master/contributors/devel/scheduler_algorithm.md)
-- [Scheduler overview](https://github.com/kubernetes/community/blob/master/contributors/devel/scheduler.md)
+- [Sheduling algorithms](https://github.com/kubernetes/community/blob/master/contributors/devel/sig-scheduling/scheduler_algorithm.md)
+- [Scheduler overview](https://github.com/kubernetes/community/blob/master/contributors/devel/sig-scheduling/scheduler.md)
 - [Design Proposals](https://github.com/kubernetes/community/tree/master/contributors/design-proposals/scheduling)
 
 ### Storage
