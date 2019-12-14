@@ -26,6 +26,10 @@ Please note that this material _may not_ be relevant if you're looking to operat
 
 ## Talks
 
+### Control Plane
+- [
+The Kubernetes Control Plane for Busy People Who Like Pictures](https://www.youtube.com/watch?v=zCXiXKMqnuE)
+
 ### Networking
 - [The ins and outs of networking in Google Container Engine and Kubernetes](https://www.youtube.com/watch?v=y2bhV81MfKQ)
 - [Deep-dive on Kubernetes networking](https://skillsmatter.com/skillscasts/10466-deep-dive-on-kubernetes-networking)
